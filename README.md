@@ -50,7 +50,7 @@
 | **Risk Analytics** | VaR (Historical, Monte Carlo, Parametric), Stress Testing, Beta, Alpha, IdioVariance |
 | **Financial Data** | Bloomberg, MSCI, Axioma, BlackRock, ORATS, FRED, iShares |
 | **Data Science** | Python, R, SQL, KQL, Machine Learning, NLP, Time Series |
-| **Cloud & Tools** | Azure, Azure Data Explorer, Azure Function Apps, GitHub, Jupyter |
+| **Cloud & Tools** | Azure, Azure Data Explorer, Azure Function Apps|
 
 </div>
 
@@ -63,10 +63,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50"/>
 </p>
 
 ---
