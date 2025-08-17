@@ -32,12 +32,25 @@
 **Associate Data Science Developer** — *Financial Fabric*  
 📍 Kolkata, India (Remote) | *Apr 2023 – Present*  
 
-- Automated **Equity Risk Assessment** using Historical & Hybrid VaR models.  
-- Built **Azure Dashboard Trading Strategy** with dynamic MA & RSI settings.  
-- Developed **Beta & Alpha computation workflows** for multi-timeframe analysis.  
-- Created **ETF holdings analytics** (cut data cost by 85%).  
-- Implemented **real-time pub/sub connectors** for live portfolio monitoring.  
-- Engineered **Stress Testing** pipelines using MSCI Risk Manager API.  
+### 🔁 Data Pipeline Ingestion Projects  
+- Integrated financial data from **Bloomberg, FRED, yfinance, Polygon, ORATS, Coremont, MSCI** APIs.  
+- Designed and implemented automated **ETL pipelines** to extract, standardize, and load financial data into **Azure Data Explorer**.  
+- Optimized pipelines using **Python** and **Microsoft PowerAutomate** for reliability, scalability, and scheduled execution.
+
+### 📉 Risk Analytics Projects  
+- Built automated **Equity Risk Assessment** workflows using **Historical & Hybrid VaR models** to mitigate portfolio risks.  
+- Developed **Beta and Alpha computation** models across multiple timeframes (*1Y, 6M, YTD, QTD*) to identify high-return stocks relative to market indices.  
+- Designed computation flows for **IRR, XIRR, ROIC, and MOIC** across Fund, Book, and Asset levels using Net and Gross cashflows.  
+- Engineered **Stress Testing** processes leveraging the **MSCI Risk Manager API** using Python.  
+- Created workflows to compute **PnL across different holding periods**, breaking down from **Inception-to-Date (ITD)** metrics.
+
+### 📊 Risk Analytics Reporting  
+- Visualized **Portfolio IdioVariance** using **MSCI IdioRisk, covariance, and exposure data**, with **R** and **Excel-based dashboards**.  
+- Built a **Crossover Trading Strategy Dashboard** in **Azure with Plotly**, supporting dynamic adjustment of **Moving Averages (7–200 days)** and **RSI (20–80)** settings.  
+- Created data scraping workflows to analyze **ETF holdings** from providers like **iShares, GlobalX, Invesco, JPMorgan**, reducing third-party data cost by **85%**.
+
+### 🤖 AI-Based Projects  
+- Designed an **AI-powered document retrieval and sentiment analysis pipeline** using **OpenAI's text embeddings** and **NLTK**, enabling contextual extraction from large datasets.
 
 ---
 
@@ -75,19 +88,6 @@
 - 📘 *Dataset for Classifying Intents & Sentiments in Judicial Conversations* — **SemDial 2022**  
 
 ---
-
-## 🏆 Awards
-
-- 🥇 **Gold Badge for SQL** — HackerRank  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Protyush1999&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Protyush1999&theme=tokyonight" width="48%">
-</p>
 
 ---
 
