@@ -84,10 +84,9 @@
 
 ## 📚 Publications
 
-- 📘 *Optimal Stock Allocation for Automated Portfolio Recommender Systems* — **Expert Systems with Applications (Elsevier)**  
-- 📘 *Dataset for Classifying Intents & Sentiments in Judicial Conversations* — **SemDial 2022**  
+- 📘 [Optimal Stock Allocation for Automated Portfolio Recommender Systems — *Expert Systems with Applications (Elsevier)*](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=s3rlp10AAAAJ&citation_for_view=s3rlp10AAAAJ:9yKSN-GCB0IC)  
+- 📘 [Dataset for Classifying Intents & Sentiments in Judicial Conversations — *SemDial 2022*](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=s3rlp10AAAAJ&citation_for_view=s3rlp10AAAAJ:u-x6o8ySG0sC)
 
----
 
 ---
 
